@@ -6,6 +6,7 @@ body
 {
     max-width: 600px;
     margin: auto;
+    background-color: #6fb4c9;
 }
 .one_image
 {
@@ -14,4 +15,12 @@ body
 .two_image
 {
     float: left;
+}
+p
+{
+    font-size: 20px;
+}
+h1
+{
+    text-align: center;
 }
